@@ -121,6 +121,9 @@
                 background-color: #22c55e;
                 color: white;
             }
+            #showContent{
+                  margin-right: 20px;
+            }
         }
         @media (min-width: 1201px){
             body{
@@ -146,5 +149,6 @@
                 background-color: #22c55e;
                 color: white;
             }
+          
         }
     
