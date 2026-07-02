@@ -56,7 +56,7 @@
                     clearInterval(tt);
                     secondPart.style.display = "none";
                     showContent.style.display = "block";
-                    showContent.innerHTML = `Correct: ${totalCorrect} : Wrong: ${totalWrong} `;
+                    showContent.innerHTML = `Correct: ${totalCorrect} Wrong: ${totalWrong} `;
                     //secondPart.innerHTML = `Total Correct: ${totalCorrect}`;
                 }
             }, 1000);
