@@ -124,6 +124,7 @@
             #showContent{
                   margin-right: 20px;
                   font-size: 12px;
+                  width: 120px;
             }
         }
         @media (min-width: 1201px){

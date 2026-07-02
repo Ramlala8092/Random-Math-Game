@@ -45,7 +45,7 @@
             btn.style.display = "none";
             timer.style.display = "block";
 
-            let time = 60;
+            let time = 10;
 
             const tt = setInterval(() => {
                 timer.innerHTML = time;
