@@ -123,6 +123,7 @@
             }
             #showContent{
                   margin-right: 20px;
+                  font-size: 12px;
             }
         }
         @media (min-width: 1201px){
